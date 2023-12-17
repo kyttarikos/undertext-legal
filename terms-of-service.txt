@@ -2,7 +2,7 @@
 
 ## Terms of Service
 
-These terms of service govern the use of UnderTEXT, an Undertale/Deltarune-style text box generator bot for Discord. The bot is developed by Isaac 'kyttarikos' Mendoza, referred to as the "Developer" throughout this policy, in collaboration with Demirramon, the Original Creator of the said text box generator. These terms of service apply to all users of UnderTEXT, and by using the bot, users agree to these terms.
+These terms of service govern the use of UnderTEXT, an Undertale/Deltarune-style text box generator bot for Discord. The bot is developed by Isaac 'kyttarikos' M., referred to as the "Developer" throughout this policy, in collaboration with Demirramon, the Original Creator of the said text box generator. These terms of service apply to all users of UnderTEXT, and by using the bot, users agree to these terms.
 
 1. Acceptance of Terms: By using UnderTEXT, users agree to these terms of service. If users do not agree to these terms, they should not use the bot.
 
