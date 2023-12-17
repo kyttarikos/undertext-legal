@@ -1,4 +1,7 @@
-Privacy Policy for UnderTEXT Discord Bot:
+# UnderTEXT Discord Bot
+
+## Privacy Policy
+(updated as of December 17th, 2023)
 
 1. This privacy policy outlines how UnderTEXT collects, uses, and protects any information that is provided by its users when using the bot. UnderTEXT is a text box generator for the Undertale/Deltarune community on Discord. The bot is developed by Isaac 'kyttarikos' Mendoza, who is referred to as the "Developer" throughout this policy. Demirramon, who is the original creator of the said text box generator, is referred to as the "Original Creator."
 
